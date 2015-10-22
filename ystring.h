@@ -1,11 +1,4 @@
-/**************************************************************
-File			: ystring.h
-Description		: implements an advanced string class 
-Date Created	:
-Created By		:
-Last Modified	: Manoj
-Last Reviewed	:
-**************************************************************/
+
 
 #ifndef _MB_YSTRING_H
 #define _MB_YSTRING_H
