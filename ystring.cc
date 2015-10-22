@@ -1,11 +1,4 @@
-/**************************************************************
-File			: ystring.cpp
-Description		: implements an advanced string class 
-Date Created	:
-Created By		:
-Last Modified	: Manoj
-Last Reviewed	:
- **************************************************************/
+
 
 #include "yinclude.h"
 #include "ystring.h"
